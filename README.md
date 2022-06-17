@@ -10,6 +10,7 @@ This repository contains my articles published on the web in PT-BR! :book:
 - [Drops #02: Como alterar o autor do commit depois do push](/articles/drops-02-como-alterar-o-autor-do-commit-depois-do-push.md)
 - [Drops #03: Usando aliases para importação de módulos em TypeScript!](/articles/drops-03-usando-aliases-para-importacao-de-modulos-em-typescript.md)
 - [Drops #04: Desmistificando ponteiros no Golang!](/articles/drops-04-desmistificando-ponteiros-no-golang.md)
+- [Refresh Tokens: equilibrando segurança e usabilidade em aplicações!](/articles/refresh-tokens-equilibrando-seguranca-e-usabilidade-em-aplicacoes.md)
 - [Testes Unitários: Fundamentos e Qualidade de Software!](/articles/testes-unitarios-fundamentos-e-qualidade-de-software.md)
 
 Give a :star: if any of these articles helped you :heart:
